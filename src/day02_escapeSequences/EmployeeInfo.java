@@ -24,3 +24,15 @@ public class EmployeeInfo {
 
     Multi-line comments
  */
+
+/**
+ Create a Java file named "EmployeeInfo" and write a program that can display the following output on the console:
+
+ output:
+ Name: $yourName
+ Gender: $gender
+ Age: $age
+ Job Title: Java Developer
+ Company: $companyName
+ Salary: $salary
+ */
