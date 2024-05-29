@@ -18,5 +18,7 @@ public class Concatenation_vs_Addition {
 
         System.out.println("The value is " + true);
 
+        System.out.println(12 + 6 + " result = 18 result");
+
     }
 }
