@@ -1,4 +1,4 @@
-package day5_operators;
+package day05_operators;
 
 public class ShorthandOperators {
 
