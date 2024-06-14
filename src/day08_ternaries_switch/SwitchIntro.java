@@ -33,7 +33,7 @@ public class SwitchIntro {
 
         System.out.println("--------------------------------------------------------");
 
-        switch (grade){
+        switch (grade) {
 
             case 'A':
                 System.out.println("Excellent");
