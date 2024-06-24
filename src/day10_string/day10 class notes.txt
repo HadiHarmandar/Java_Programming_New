@@ -37,3 +37,12 @@ Warmup tasks:
 	            Company name
 	            Employee's job title
 	            Employee's salary
+
+--------------------
+
+Java:  J a v a
+
+"CYdeo123": 'C', 'Y', 'd', 'e', 'o', '1', '2', '3'
+
+
+
